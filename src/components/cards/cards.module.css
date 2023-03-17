@@ -1,0 +1,10 @@
+.tarjetas {
+
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    margin-top: 30px;
+    justify-items: center;
+
+    /* background-image: url(https://img.ecartelera.com/noticias/51300/51380-m.jpg) */
+}
